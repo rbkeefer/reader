@@ -1,0 +1,145 @@
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.0927153
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 13.531876
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.4090909
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp2.jpg.Framed.xml
+Most Similar: Reference:[8] with Target:[2] with a score of 0.3481241
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[5] with a score of 0.07232533
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[5] with a score of 0.72321427
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/NYTip2.jpg.Framed.xml
+Most Similar: Reference:[5] with Target:[2] with a score of 0.018468358
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[7] with a score of 0.02849361
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 6.6241817
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[4] with a score of 0.26666668
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 9.110907
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 8.500802
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[4] with a score of 0.94623655
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJip2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 6.391006
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer2.jpg.Framed.xml
+Most Similar: Reference:[5] with Target:[1] with a score of 1.719955
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[4] with a score of 0.0238684
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[10] with a score of 11.1531105
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 28.139997
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.697654
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 27.310522
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 5.0036087
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 14.104406
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 9.1991625
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 2.8060963
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.8964252
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.14044401
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 3.6162806
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/AutoSepManClassify/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 0.049991168

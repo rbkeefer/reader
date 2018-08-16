@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/reader/!svn/ver/51/Tyflos/src
+END
+RkColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/51/Tyflos/src/RkColumn.h
+END
+Utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/56/Tyflos/src/Utils.cpp
+END
+Segment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/56/Tyflos/src/Segment.cpp
+END
+RkUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/51/Tyflos/src/RkUtils.h
+END
+Reader.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/56/Tyflos/src/Reader.cpp
+END
+RkSegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/53/Tyflos/src/RkSegment.h
+END
+Separate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/56/Tyflos/src/Separate.cpp
+END
+Regions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/54/Tyflos/src/Regions.cpp
+END
+RkRegions.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/51/Tyflos/src/RkRegions.h
+END
+RkReduce.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/51/Tyflos/src/RkReduce.h
+END
+RkRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/51/Tyflos/src/RkRow.h
+END
+ReduceExpand.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/56/Tyflos/src/ReduceExpand.h
+END
+Classify.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/56/Tyflos/src/Classify.cpp
+END
+RkArticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/56/Tyflos/src/RkArticle.h
+END
+RkBoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/reader/!svn/ver/54/Tyflos/src/RkBoundingRectangle.cpp
+END
+CleanImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/51/Tyflos/src/CleanImage.h
+END
+RkColumn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/51/Tyflos/src/RkColumn.cpp
+END
+RkUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/51/Tyflos/src/RkUtils.cpp
+END
+Frame.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/56/Tyflos/src/Frame.h
+END
+RkSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/56/Tyflos/src/RkSegment.cpp
+END
+RkRegions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/51/Tyflos/src/RkRegions.cpp
+END
+RkReduce.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/51/Tyflos/src/RkReduce.cpp
+END
+RkRow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/51/Tyflos/src/RkRow.cpp
+END
+Utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/56/Tyflos/src/Utils.h
+END
+Segment.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/56/Tyflos/src/Segment.h
+END
+Reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/53/Tyflos/src/Reader.h
+END
+ReduceExpand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/56/Tyflos/src/ReduceExpand.cpp
+END
+Separate.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/56/Tyflos/src/Separate.h
+END
+Regions.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/52/Tyflos/src/Regions.h
+END
+RkArticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/56/Tyflos/src/RkArticle.cpp
+END
+RkCleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/51/Tyflos/src/RkCleanImage.cpp
+END
+Classify.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/56/Tyflos/src/Classify.h
+END
+CleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/54/Tyflos/src/CleanImage.cpp
+END
+Frame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/56/Tyflos/src/Frame.cpp
+END
+RkBoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/reader/!svn/ver/54/Tyflos/src/RkBoundingRectangle.h
+END

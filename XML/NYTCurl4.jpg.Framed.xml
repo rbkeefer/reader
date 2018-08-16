@@ -1,0 +1,106 @@
+<DocumentImage>
+	<documentNo>298691741</documentNo>
+	<pageNo></pageNo>
+
+<Article>
+	<height>392</height>
+	<width>396</width>
+	<numColumns>6</numColumns>
+	<avgDistBetweenColumns>157</avgDistBetweenColumns>
+
+	<Headline>
+		<MaxCharHeight>22</MaxCharHeight>
+		<AvgCharHeight>3</AvgCharHeight>
+		<Position>
+			<top>48</top>
+			<left>16</left>
+			<bottom>132</bottom>
+			<right>336</right>
+		</Position>
+
+		<text></text>
+
+	</Headline>
+
+	<BodyText>
+		<Column>
+			<MaxCharHeight>13</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>140</top>
+				<left>16</left>
+				<bottom>424</bottom>
+				<right>184</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>13</MaxCharHeight>
+			<AvgCharHeight>2</AvgCharHeight>
+			<Position>
+				<top>140</top>
+				<left>188</left>
+				<bottom>276</bottom>
+				<right>372</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>10</MaxCharHeight>
+			<AvgCharHeight>2</AvgCharHeight>
+			<Position>
+				<top>288</top>
+				<left>192</left>
+				<bottom>364</bottom>
+				<right>384</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>8</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>372</top>
+				<left>192</left>
+				<bottom>440</bottom>
+				<right>412</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>10</MaxCharHeight>
+			<AvgCharHeight>2</AvgCharHeight>
+			<Position>
+				<top>288</top>
+				<left>192</left>
+				<bottom>364</bottom>
+				<right>384</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>8</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>372</top>
+				<left>192</left>
+				<bottom>440</bottom>
+				<right>412</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+	</BodyText>
+</Article>
+</DocumentImage>

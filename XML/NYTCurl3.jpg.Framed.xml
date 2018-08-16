@@ -1,0 +1,145 @@
+<DocumentImage>
+	<documentNo>298641320</documentNo>
+	<pageNo></pageNo>
+
+<Article>
+	<height>400</height>
+	<width>480</width>
+	<numColumns>5</numColumns>
+	<avgDistBetweenColumns>150</avgDistBetweenColumns>
+
+	<Headline>
+		<MaxCharHeight>24</MaxCharHeight>
+		<AvgCharHeight>4</AvgCharHeight>
+		<Position>
+			<top>72</top>
+			<left>16</left>
+			<bottom>132</bottom>
+			<right>496</right>
+		</Position>
+
+		<text></text>
+
+	</Headline>
+
+	<BodyText>
+		<Column>
+			<MaxCharHeight>9</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>148</top>
+				<left>32</left>
+				<bottom>456</bottom>
+				<right>200</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>9</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>148</top>
+				<left>32</left>
+				<bottom>456</bottom>
+				<right>200</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>9</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>340</top>
+				<left>212</left>
+				<bottom>472</bottom>
+				<right>424</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>9</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>340</top>
+				<left>212</left>
+				<bottom>472</bottom>
+				<right>424</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+		<Column>
+			<MaxCharHeight>12</MaxCharHeight>
+			<AvgCharHeight>1</AvgCharHeight>
+			<Position>
+				<top>136</top>
+				<left>216</left>
+				<bottom>332</bottom>
+				<right>468</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+	</BodyText>
+</Article>
+
+<Article>
+	<height>16</height>
+	<width>44</width>
+	<numColumns>1</numColumns>
+	<avgDistBetweenColumns>0</avgDistBetweenColumns>
+
+	<Headline>
+	</Headline>
+
+	<BodyText>
+		<Column>
+			<MaxCharHeight>6</MaxCharHeight>
+			<AvgCharHeight>3</AvgCharHeight>
+			<Position>
+				<top>20</top>
+				<left>20</left>
+				<bottom>36</bottom>
+				<right>64</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+	</BodyText>
+</Article>
+
+<Article>
+	<height>8</height>
+	<width>16</width>
+	<numColumns>1</numColumns>
+	<avgDistBetweenColumns>0</avgDistBetweenColumns>
+
+	<Headline>
+	</Headline>
+
+	<BodyText>
+		<Column>
+			<MaxCharHeight>2</MaxCharHeight>
+			<AvgCharHeight>2</AvgCharHeight>
+			<Position>
+				<top>24</top>
+				<left>72</left>
+				<bottom>32</bottom>
+				<right>88</right>
+			</Position>
+
+			<text></text>
+
+		</Column>
+	</BodyText>
+</Article>
+</DocumentImage>

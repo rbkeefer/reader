@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/reader/!svn/ver/23/combine
+END
+BoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/22/combine/BoundingRectangle.h
+END
+findParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/22/combine/findParts.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/22/combine/utils.cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/22/combine/utils.h
+END
+ColumnLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/22/combine/ColumnLine.cpp
+END
+mergeRectList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/22/combine/mergeRectList.cpp
+END
+pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/22/combine/pyramid.h
+END
+reduceImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/22/combine/reduceImage.cpp
+END
+ColumnLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/22/combine/ColumnLine.h
+END
+mergeRectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/8/combine/mergeRectList.h
+END
+reduceImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/22/combine/reduceImage.h
+END
+RowLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/22/combine/RowLine.cpp
+END
+mapImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/7/combine/mapImage.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/23/combine/main.cpp
+END
+RowLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/22/combine/RowLine.h
+END
+cleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/22/combine/cleanImage.cpp
+END
+mapImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/7/combine/mapImage.h
+END
+regionImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/23/combine/regionImage.cpp
+END
+cleanImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/4/combine/cleanImage.h
+END
+BoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/reader/!svn/ver/22/combine/BoundingRectangle.cpp
+END
+findParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/22/combine/findParts.cpp
+END
+regionImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/22/combine/regionImage.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/22/combine/makefile
+END

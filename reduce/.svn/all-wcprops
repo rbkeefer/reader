@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/reader/!svn/ver/21/reduce
+END
+reduceImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/14/reduce/reduceImage.h
+END
+findParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/19/reduce/findParts.h
+END
+RowLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/14/reduce/RowLine.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/19/reduce/main.cpp
+END
+RowLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/14/reduce/RowLine.h
+END
+cleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/21/reduce/cleanImage.cpp
+END
+ColumnLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/13/reduce/ColumnLine.cpp
+END
+cleanImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/2/reduce/cleanImage.h
+END
+pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/21/reduce/pyramid.h
+END
+reduceImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/14/reduce/reduceImage.cpp
+END
+ColumnLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/13/reduce/ColumnLine.h
+END
+findParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/19/reduce/findParts.cpp
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/14/reduce/makefile
+END

@@ -1,0 +1,120 @@
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 5.2570863
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 4.5319295
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 3.0385232
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 0.012555504
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 0.112813175
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/NYTip2.jpg.Framed.xml
+Most Similar: Reference:[8] with Target:[1] with a score of 13.000285
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 2.1818182
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[5] with Target:[1] with a score of 0.2446571
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 0.4067235
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 3.5659506
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 54.475857
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 4.7269487
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJip2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 4.203956
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 0.32900432
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 2.8024163
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.05239309
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[13] with a score of 5.1639314
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 23.039228
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.10909091
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[5] with a score of 0.0043290043
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 3.3551593
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[13] with a score of 0.05226827

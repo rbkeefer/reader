@@ -1,0 +1,140 @@
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.7121212
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 50.957806
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 9.995435
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 141.85384
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.675426
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 225.61058
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/NYTip2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 14.722442
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp2.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 0.41376373
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 0.08315715
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 0.33736455
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 16.456379
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 4.0949993
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[9] with a score of 0.017857144
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 0.008658009
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[5] with Target:[2] with a score of 0.10411449
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 0.3
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 0.17878787
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[2] with a score of 0.023809524
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 0.038961038
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[2] with a score of 0.023088023
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[2] with a score of 0.07575758
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[3] with a score of 0.033333335
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[6] with Target:[1] with a score of 0.008333333
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.43589744
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 0.12918662
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullManual/EnhancedAverage/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 0.13333334

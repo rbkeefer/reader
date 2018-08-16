@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/47/Registration/src
+END
+Registration.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/reader/!svn/ver/47/Registration/src/Registration.h
+END
+RkFrames.h
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/47/Registration/src/RkFrames.h
+END
+RkSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/reader/!svn/ver/47/Registration/src/RkSegment.cpp
+END
+RkArticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/reader/!svn/ver/47/Registration/src/RkArticle.cpp
+END
+RkUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/reader/!svn/ver/47/Registration/src/RkUtils.h
+END
+RkSegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/47/Registration/src/RkSegment.h
+END
+RkArticle.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/47/Registration/src/RkArticle.h
+END
+RkBoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/reader/!svn/ver/47/Registration/src/RkBoundingRectangle.cpp
+END
+Registration.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/reader/!svn/ver/47/Registration/src/Registration.cpp
+END
+RkFrames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/reader/!svn/ver/47/Registration/src/RkFrames.cpp
+END
+RkBoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/reader/!svn/ver/47/Registration/src/RkBoundingRectangle.h
+END
+RkUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/47/Registration/src/RkUtils.cpp
+END

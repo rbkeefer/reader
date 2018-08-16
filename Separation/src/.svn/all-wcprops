@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/reader/!svn/ver/48/Separation/src
+END
+RkCharacter.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/48/Separation/src/RkCharacter.h
+END
+RkColumn.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/48/Separation/src/RkColumn.h
+END
+RkSegment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/49/Separation/src/RkSegment.cpp
+END
+RkTextFrame.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/48/Separation/src/RkTextFrame.h
+END
+RkUtils.h
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/48/Separation/src/RkUtils.h
+END
+RkRegions.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/48/Separation/src/RkRegions.cpp
+END
+Separate.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/49/Separation/src/Separate.cpp
+END
+RkRow.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/48/Separation/src/RkRow.cpp
+END
+RkSegment.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/reader/!svn/ver/49/Separation/src/RkSegment.h
+END
+RkSize.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/49/Separation/src/RkSize.cpp
+END
+RkRegions.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/reader/!svn/ver/48/Separation/src/RkRegions.h
+END
+Separate.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/reader/!svn/ver/49/Separation/src/Separate.h
+END
+RkRow.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/48/Separation/src/RkRow.h
+END
+RkSize.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/reader/!svn/ver/48/Separation/src/RkSize.h
+END
+RkCleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/reader/!svn/ver/49/Separation/src/RkCleanImage.cpp
+END
+RkBoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/reader/!svn/ver/48/Separation/src/RkBoundingRectangle.cpp
+END
+RkCharacter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/reader/!svn/ver/48/Separation/src/RkCharacter.cpp
+END
+RkColumn.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/reader/!svn/ver/48/Separation/src/RkColumn.cpp
+END
+RkBoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/reader/!svn/ver/48/Separation/src/RkBoundingRectangle.h
+END
+RkTextFrame.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/reader/!svn/ver/48/Separation/src/RkTextFrame.cpp
+END
+RkUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/reader/!svn/ver/49/Separation/src/RkUtils.cpp
+END

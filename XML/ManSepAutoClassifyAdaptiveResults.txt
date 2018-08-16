@@ -1,0 +1,120 @@
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.8124912
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 5.699222
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 4.2300816
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp2.jpg.Framed.xml
+Most Similar: Reference:[4] with Target:[1] with a score of 1.61966
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 0.2945778
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 95.61775
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/NYTip2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 17.815207
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 0.4848485
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 0.7703349
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 0.4067235
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 0.12959257
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[3] with a score of 39.504055
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJip2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.2028615
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 0.32900432
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 4.7040563
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.05239309
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 2.1251712
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 23.039228
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 0.2137161
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[5] with a score of 0.0043290043
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 20.803804
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/ManSepAutoClassify/EnhancedAdaptive/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[13] with a score of 0.05226827

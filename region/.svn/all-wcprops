@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/reader/!svn/ver/20/region
+END
+findParts.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/20/region/findParts.h
+END
+BoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/reader/!svn/ver/17/region/BoundingRectangle.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/20/region/utils.cpp
+END
+regionImage.bak
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/2/region/regionImage.bak
+END
+ColumnLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/20/region/ColumnLine.cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/reader/!svn/ver/20/region/utils.h
+END
+mergeRectList.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/20/region/mergeRectList.cpp
+END
+ColumnLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/20/region/ColumnLine.h
+END
+reduceImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/20/region/reduceImage.cpp
+END
+pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/20/region/pyramid.h
+END
+mergeRectList.h
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/reader/!svn/ver/2/region/mergeRectList.h
+END
+RowLine.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/20/region/RowLine.cpp
+END
+reduceImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/20/region/reduceImage.h
+END
+RowLine.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/20/region/RowLine.h
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/20/region/main.cpp
+END
+cleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/2/region/cleanImage.cpp
+END
+regionImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/20/region/regionImage.cpp
+END
+BoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/reader/!svn/ver/17/region/BoundingRectangle.cpp
+END
+cleanImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/2/region/cleanImage.h
+END
+findParts.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/reader/!svn/ver/20/region/findParts.cpp
+END
+regionImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/2/region/regionImage.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/20/region/makefile
+END

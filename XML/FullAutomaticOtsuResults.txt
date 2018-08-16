@@ -1,0 +1,145 @@
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 5.9105964
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 14.683525
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTCurl4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.2525252
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[3] with a score of 0.9350649
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[5] with a score of 0.07232533
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 7.4571433
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/NYTip2.jpg.Framed.xml
+Most Similar: Reference:[5] with Target:[2] with a score of 0.018468358
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp2.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[9] with a score of 0.02849361
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[3] with Target:[1] with a score of 1.2617489
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[4] with a score of 0.26666668
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp3.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[1] with a score of 2.0040424
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[2] with Target:[2] with a score of 10.480551
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJfp4.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[4] with a score of 0.94623655
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJip1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJip2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.9649627
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer2.jpg.Framed.xml
+Most Similar: Reference:[6] with Target:[1] with a score of 1.719955
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[2] with a score of 0.009447419
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[7] with a score of 8.4258375
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 143.97968
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[null] with Target:[null] with a score of 1000.0
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.697654
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 1.1522709
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[6] with Target:[1] with a score of 15.083275
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer1.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 0.4811323
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 134.74162
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 2.8060963
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer2.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[1] with Target:[1] with a score of 7.8964252
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw1.jpg.Framed.xml
+Most Similar: Reference:[18] with Target:[2] with a score of 0.12237762
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw2.jpg.Framed.xml
+Most Similar: Reference:[20] with Target:[1] with a score of 0.11000242
+
+ --- 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJPer3.jpg.Framed.xml with 
+/Users/rob/Research/Experiments/8Framing/FullAutomatic/EnhancedOtsu/WSJSkw3.jpg.Framed.xml
+Most Similar: Reference:[18] with Target:[1] with a score of 4.6782303

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/47/Registration/test
+END
+TestRkArticle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/reader/!svn/ver/47/Registration/test/TestRkArticle.cpp
+END
+TestRkBoundingRect.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/reader/!svn/ver/47/Registration/test/TestRkBoundingRect.cpp
+END
+TestRkFrames.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/reader/!svn/ver/47/Registration/test/TestRkFrames.cpp
+END
+TestRkUtils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/reader/!svn/ver/47/Registration/test/TestRkUtils.cpp
+END

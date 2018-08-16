@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 26
+/reader/!svn/ver/37/simple
+END
+simple.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/reader/!svn/ver/2/simple/simple.c
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/reader/!svn/ver/2/simple/makefile
+END
+simpleImage.c
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/reader/!svn/ver/2/simple/simpleImage.c
+END

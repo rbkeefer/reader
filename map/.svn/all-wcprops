@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 22
+/reader/!svn/ver/7/map
+END
+BoundingRectangle.h
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/reader/!svn/ver/2/map/BoundingRectangle.h
+END
+utils.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/reader/!svn/ver/2/map/utils.cpp
+END
+utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 30
+/reader/!svn/ver/2/map/utils.h
+END
+pyramid.h
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/reader/!svn/ver/2/map/pyramid.h
+END
+reduceImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/2/map/reduceImage.cpp
+END
+main.data
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/reader/!svn/ver/2/map/main.data
+END
+reduceImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/2/map/reduceImage.h
+END
+mapImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/7/map/mapImage.cpp
+END
+main.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/reader/!svn/ver/5/map/main.cpp
+END
+cleanImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/reader/!svn/ver/2/map/cleanImage.cpp
+END
+mapImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/reader/!svn/ver/5/map/mapImage.h
+END
+regionImage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/reader/!svn/ver/2/map/regionImage.cpp
+END
+cleanImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/reader/!svn/ver/2/map/cleanImage.h
+END
+BoundingRectangle.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/reader/!svn/ver/3/map/BoundingRectangle.cpp
+END
+regionImage.h
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/reader/!svn/ver/2/map/regionImage.h
+END
+makefile
+K 25
+svn:wc:ra_dav:version-url
+V 31
+/reader/!svn/ver/3/map/makefile
+END
