@@ -1,4 +1,6 @@
 # Tyflos Reader
+Tyflos - OCR, Document Image Processing Pipeline, Data, and Tests
+
 Document image processing pipeline for making an image of a newspaper article available to a listener through text to speech processing.
 
 ## Requirements
