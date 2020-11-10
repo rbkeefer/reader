@@ -19,4 +19,3 @@ This directory contains the files needed to cleanup run the segmentation, headli
 Note that the code assumes a 640x480 image. Some of the parameters need to be changed for other sized images.
 
 The WSJCurl1.jpg file is a good example of an image that can be run in through the dewarping code and then through the segmentation code.
-
